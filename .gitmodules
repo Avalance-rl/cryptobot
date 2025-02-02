@@ -1,0 +1,6 @@
+[submodule "services/api-service"]
+	path = services/api-service
+	url = https://github.com/Avalance-rl/api-service.git
+[submodule "services/bot"]
+	path = services/bot
+	url = https://github.com/Avalance-rl/bot.git
