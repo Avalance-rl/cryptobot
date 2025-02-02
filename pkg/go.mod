@@ -1,4 +1,4 @@
-module github.com/avalance-rl/cryptobot-pkg
+module github.com/avalance-rl/cryptobot/pkg
 
 go 1.23.4
 
