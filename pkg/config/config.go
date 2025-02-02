@@ -7,17 +7,6 @@ type Config struct {
 		Name string
 		Port int
 	}
-	Database struct {
-		Host     string
-		Port     int
-		User     string
-		Password string
-		Name     string
-	}
-	Redis struct {
-		Host string
-		Port int
-	}
 }
 
 func Load(configPath string) (*Config, error) {
